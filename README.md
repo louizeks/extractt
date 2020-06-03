@@ -2,7 +2,7 @@
 # Extractt
 
 ## Descrição
-Extractt é um serviço destinado a extração de textos de documentos. Seu funcionando é de forma assíncrona e seu cliente não precisa aguardar o processamento para ter o resultado, o resultado é enviado assim que o processamento termina atavés de uma url de callback.
+Extractt é um serviço destinado a extração de textos de documentos. Seu funcionamento é de forma assíncrona e seu cliente não precisa aguardar o processamento para ter o resultado, o resultado é enviado assim que o processamento termina atavés de uma url de callback.
 
 
 
@@ -92,7 +92,7 @@ As duas variáveis são necessárias para a utilização do Cognitive Services.
 # Extractt
 
 ## Descrição
-Extractt é um serviço destinado a extração de textos de documentos. Seu funcionando é de forma assíncrona e seu cliente não precisa aguardar o processamento para ter o resultado, o resultado é enviado assim que o processamento termina atavés de uma url de callback.
+Extractt é um serviço destinado a extração de textos de documentos. Seu funcionamento é de forma assíncrona e seu cliente não precisa aguardar o processamento para ter o resultado, o resultado é enviado assim que o processamento termina atavés de uma url de callback.
 
 ![alt text](https://github.com/StephanyBatista/extractt/blob/master/Imgs/extractt_flow.png?raw=true)
 
